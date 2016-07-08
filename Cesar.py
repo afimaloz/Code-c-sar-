@@ -1,4 +1,4 @@
-# Initialisation des valeurs
+# Initialisation 
 mot = input("Ecrivez un MOT:")
 nouveaumot = ""
 ordre = {}
