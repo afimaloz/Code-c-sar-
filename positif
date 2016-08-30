@@ -1,0 +1,21 @@
+nombre = int(input ('Rentre un nombre -> '))
+nombree = int(input ('Rentre un autre nombre -> '))
+
+
+if nombre == 0 :
+    print ('Choisis autre chose que 0')
+    
+elif nombre > 0:
+     print ("C'est un nombre positif")
+else :
+     print ("C'est un nombre négatif")
+
+
+if nombree == 0 :
+    print ('Choisis autre chose que 0')
+    
+elif nombree > 0:
+     print ("C'est un nombre positif")
+else :
+     print ("C'est un nombre négatif")
+
